@@ -6,7 +6,7 @@ The package qnipp:jstree-blaze-template relies on this package. It was not possi
 
 ## Installation
 
-    meteor install qnipp:jstree
+    meteor add qnipp:jstree
 
 ## Usage
 
